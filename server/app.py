@@ -26,7 +26,7 @@ def math(num1, operation, num2):
     
     if operation == "+":
         result = num1 + num2
-    elif operation == "-":
+    elif operation == "-"
         result = num1 - num2
     elif operation == "*":
         result = num1 * num2
